@@ -61,6 +61,12 @@ p {
   border-radius: 5%;
 }
 
+main {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
 .attribution {
   font-size: 11px;
   text-align: center;
